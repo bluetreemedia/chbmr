@@ -8,6 +8,4 @@ new_page_extension: md
 auto_deploy: false
 admin_path:
 webhook_url:
-collections:
-  post:
-    default_front_matter_template: "people"
+collections: {}
