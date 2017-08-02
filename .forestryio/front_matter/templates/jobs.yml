@@ -1,4 +1,6 @@
 ---
+pages:
+- _jobs/asdf-1.md
 hide_body: true
 fields:
 - name: link
