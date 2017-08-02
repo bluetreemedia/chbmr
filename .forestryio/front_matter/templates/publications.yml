@@ -7,7 +7,7 @@ fields:
   name: title
   label: Title
 - name: pdf
-  default: ''
+  default ''
   label: PDF
   type: file
   hidden: false
