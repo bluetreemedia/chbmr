@@ -10,6 +10,6 @@ admin_path:
 webhook_url:
 collections:
   _jobs:
-    default_front_matter_template: posts
+    default_front_matter_template posts
   _people:
     default_front_matter_template: posts
