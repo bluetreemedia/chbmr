@@ -1,5 +1,6 @@
 ---
 pages:
+- _jobs/test.md
 - _jobs/job-test.md
 - _jobs/asdf.md
 hide_body: true
