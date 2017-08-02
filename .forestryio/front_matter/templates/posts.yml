@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/asdfasdf.md
 hide_body: false
 fields:
 - name: tags
