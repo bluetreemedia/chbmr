@@ -2,7 +2,7 @@
 pages:
 - _jobs/asdf.md
 - _jobs/job-test.md
-hide_body: false
+hide_body: true
 fields:
 - name: link
   label: Link
