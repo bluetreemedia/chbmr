@@ -1,5 +1,6 @@
 ---
 pages:
+- _publications/pdf-test.md
 - _publications/examining-the-drivers-of-high-cost-healthcare-usage-in-prince-edward-island.md
 hide_body: false
 fields:
@@ -7,7 +8,7 @@ fields:
   name: title
   label: Title
 - name: pdf
-  default ''
+  default: ''
   label: PDF
   type: file
   hidden: false
