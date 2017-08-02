@@ -1,0 +1,13 @@
+---
+pages:
+- _jobs/skopenow.md
+hide_body: true
+fields:
+- type: text
+  default: This is the skopenow FMT
+  label: title
+  name: title
+- type: textarea
+  default: Let us take your personal information so we can sell it to large corporations.
+  label: gimme
+  name: gimme
