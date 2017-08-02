@@ -1,0 +1,8 @@
+---
+pages:
+hide_body: true
+fields:
+- type: text
+  default: JOBS FMT
+  label: title
+  name: title
