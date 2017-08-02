@@ -1,7 +1,0 @@
----
-hide_body: true
-fields:
-- type: boolean
-  name: do_you_eat_bugs_
-  label: Do you eat bugs?
-  description: Yes/No

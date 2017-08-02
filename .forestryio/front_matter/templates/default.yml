@@ -1,11 +1,8 @@
 ---
-pages:
-- _jobs/asdf.md
-- _jobs/job-test.md
 hide_body: false
 fields:
-- name: link
-  label: Link
+- name: sub-title
+  label: Sub title
   type: text
   hidden: false
   default: ''
