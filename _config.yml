@@ -37,51 +37,6 @@ port: 4000
 url: "https://chcresearch.ca"
 permalink: "/:year/:title/"
 timezone:
-defaults:
-- scope:
-    path: ''
-    type: ''
-  values:
-    sub-title: ''
-- scope:
-    path: ''
-    type: 'posts'
-  values:
-    tags:
-    - something
-- scope:
-    path: ''
-    type: projects
-  values:
-    description: ''
-    thumbnail: ''
-    sub-title: ''
-    tags: []
-    slug: ''
-- scope:
-    path: ''
-    type: publications
-  values:
-    project:
-    layout: text
-    author: ''
-    link: ''
-    PDF: ''
-- scope:
-    path: ''
-    type: jobs
-  values:
-    link: ''
-- scope:
-    path: ''
-    type: people
-  values:
-    layout: person
-    sub-title: ''
-    thumbnail: ''
-    tags: []
-    email: ''
-    linkedin: ''
 kramdown:
   auto_ids: true
   toc_levels: 1..6
