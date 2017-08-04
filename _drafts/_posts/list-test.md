@@ -4,7 +4,6 @@ date: '2017-08-04T13:57:53+00:00'
 regular_select_field: two
 sortable_list:
 - _people/2016-05-13-lukas-marriott.html
-- _people/juergen-krause.html
 - _people/mary-ann-macswain.md
 tags_field:
 - this
@@ -13,6 +12,8 @@ tags_field:
 - 'tag   '
 - baby
 repeatable_group:
+- a_text_field: A cat
+  wysiwyg: 'A cat has been here '
 - a_text_field: hello world
   wysiwyg: Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur
     purus sit amet fermentum. Aenean eu leo quam. Pellentesque ornare sem lacinia
