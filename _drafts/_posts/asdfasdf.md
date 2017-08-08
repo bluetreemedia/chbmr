@@ -2,5 +2,5 @@
 title: asdfasdf
 tags:
 - something
-date: '2017-08-02T12:44:50+00:00'
+date: 2017-08-02 12:44:50 +0000
 ---

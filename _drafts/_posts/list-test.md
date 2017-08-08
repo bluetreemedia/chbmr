@@ -1,6 +1,6 @@
 ---
 title: List test
-date: '2017-08-04T13:57:53+00:00'
+date: 2017-08-04 00:00:00 +0000
 regular_select_field: four
 sortable_list:
 - _people/2016-05-13-lukas-marriott.html
