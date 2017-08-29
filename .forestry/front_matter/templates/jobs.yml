@@ -1,6 +1,4 @@
 ---
-pages:
-- _jobs/test-2.md
 hide_body: true
 fields:
 - name: link
